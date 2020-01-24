@@ -39,6 +39,8 @@ print(wb)
 wb = newWei(x3,y3,wb)
 print(wb)
 
+# link to this problem: https://brilliant.org/practice/perceptron-learning-algorithm/?p=9 
+# you might have login for see this content
 
 wb = newWei(x1,y1,wb)
 print(wb)
